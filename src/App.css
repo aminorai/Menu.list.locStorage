@@ -1,0 +1,83 @@
+/* #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+} */
+body{
+  /* background-color: rgb(222, 233, 71);
+  background-size: clamp(1367px,100%,80px); */
+  background: linear-gradient(90deg, #FDBB2D 0%, #22C1C3 100%);
+  width: 100%;
+  overflow-x: hidden;
+  /* padding: 5px; */
+  /* background: url(../image/City\ Buildings\ HD\ Wallpaper\ 38.jpg)center center no-repeat; */
+}
+/* .img-header{
+  background: linear-gradient(90deg, #FDBB2D 0%, #22C1C3 100%);
+  width: 100%;
+  padding: 5px;
+ 
+  
+} */
+/* .img-header:hover{
+  background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%);
+  width: 100%;
+  padding: 11px;
+  
+} */
+.bg-form{
+  background: #43C6AC;
+  background: -webkit-linear-gradient(to right, #F8FFAE, #43C6AC);  
+  background: linear-gradient(to right, #F8FFAE, #43C6AC); 
+   
+  
+  }
+  .img-header h1{
+    background: -webkit-radial-gradient(
+  circle,
+  rgb(119, 114, 214) 0%,
+  rgb(238, 129, 28) 21%,
+  rgba(6, 84, 170, 1) 51%,
+  rgba(0, 255, 113, 1) 100%
+ );
+ -webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+   
+    
+  }
+/* .logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+} */
